@@ -1,0 +1,14 @@
+# GitHub Profile README Generator
+
+> A gorgeous, premium, and free online tool to generate customized profile README files for your GitHub profile page.
+
+## Core Features
+
+- **Profile Essentials**: Custom name, subtitle, bio, and work/learning details. Includes a toggle option to show/hide the profile picture avatar.
+- **Tech Stack**: Search and add languages, frameworks, and tools. Renders as scale-interactive brand icons or custom shields.io badges.
+- **Social Links**: Connect accounts on GitHub, LinkedIn, Twitter/X, Discord, Medium, LeetCode, HackerRank, and more without layout squishing.
+- **Projects Showcase**: Fetch active repositories directly via the GitHub API or define custom project cards in a clean layout.
+- **Widgets & Stats**: Embed GitHub stats panels, commit streaks, trophies, page view counters, and Twitter follow buttons.
+- **Section Alignments**: Left, center, and right alignment options customizable on every page section.
+- **Export Controls**: Clean visual document preview matching GitHub's Markdown style, with Copy Code and Download triggers.
+- **Themes**: Solid light and dark design themes with a premium minimalist layout.

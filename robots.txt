@@ -1,0 +1,7 @@
+# Robots.txt for GitHub Profile README Generator
+# Instruct search engine crawlers to index the full website and locate the sitemap.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://githubprofilegenerator.vercel.app/sitemap.xml
